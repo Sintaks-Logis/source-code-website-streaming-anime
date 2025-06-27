@@ -69,7 +69,9 @@ Tidak menyertakan video anime (tidak bisa upload langsung ke hosting)
 Kamu perlu mengunggah video ke hosting video pihak ketiga dan menempelkan link-nya di dashboard
 
 # LINK VIDEO
+https://youtu.be/pYLyfAQhX1w
 
+[![source code website streaming anime](https://github.com/user-attachments/assets/c82b6212-9ea6-4db8-bcfd-d1f1ee231ca2)](https://youtu.be/pYLyfAQhX1w)
 
 # 👤 Kreator & Dukungan
 
